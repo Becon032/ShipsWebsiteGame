@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(60, 69, 71);
+    color: white;
+}
+
+button {
+    border: 0px;
+    height: 60px;
+    width: 60px;
+    font-weight: bold;
+    font-size: larger;
+}
+
+#map {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
